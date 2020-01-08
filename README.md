@@ -1,5 +1,6 @@
 # Warbler
 ===============================
+
 Full-stack web application in React, Redux, NodeJS, Express, MongoDB.
 
 ## Table of Contents
